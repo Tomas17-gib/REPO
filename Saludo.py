@@ -1,9 +1,9 @@
 # saludo.py
 # Completá con tus datos reales
 
-nombre  = "Tu nombre aquí"
+nombre  = "Tomás Pérez Marín"
 carrera = "Análisis y Desarrollo de Software"
-proyecto = "Nombre de tu proyecto"
+proyecto = "GoalKeeperNow"
 
 print(f"Hola, soy {nombre}")
 print(f"Estudio {carrera} en el SENA")
